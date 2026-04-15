@@ -1,0 +1,28 @@
+# Build artifacts
+compiled/
+
+# Output
+output/
+results/
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude / planning
+CLAUDE.md
+PLAN.md
+.claude/
+
+# OS / editor
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Reports (generated / not tracked)
+report.md
+report.pdf
+report.docx
+make_report_docx.py
+~$*
