@@ -104,6 +104,6 @@ lab2/
 │   └── parallel_mpi.c     # MPI parallel implementation
 ├── scripts/
 │   └── analysis.py        # Plotting and analysis script
-├── compiled/              # Compiled binaries (gitignored)
-└── results/               # Generated results (CSV, PNG, gitignored)
+├── compiled/              # Compiled binaries 
+└── results/               # Generated results 
 ```
